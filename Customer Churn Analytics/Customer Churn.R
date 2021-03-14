@@ -1,4 +1,4 @@
-#Step 1 Import the data
+#Step 1 Import the data. Copy the file path as per the folder or directory where the dataset is placed
 
 Churndata=read.csv("C:/Users/Kaushik/OneDrive/Datasets/Telechurn.csv",na.strings =c("",NA,NULL)  
                               ,stringsAsFactors = TRUE)
