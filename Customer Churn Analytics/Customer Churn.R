@@ -1,6 +1,6 @@
 #Step 1 Import the data
 
-Churndata=read.csv("C:/Users/Kaushik/OneDrive/Mphasis Internship/Datasets/Telechurn.csv",na.strings =c("",NA,NULL)  
+Churndata=read.csv("C:/Users/Kaushik/OneDrive/Datasets/Telechurn.csv",na.strings =c("",NA,NULL)  
                               ,stringsAsFactors = TRUE)
 
 
