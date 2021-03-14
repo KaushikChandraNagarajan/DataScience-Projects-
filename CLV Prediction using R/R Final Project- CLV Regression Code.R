@@ -1,5 +1,5 @@
 ##Step 1 
-##Computer Price Prediction
+##CLV Prediction
 
 Auto_cust_val_anal=read.csv("C:/Users/Kaushik/OneDrive/Ivy Data Science Notes/R and Stats/R Main Project/Cust val anal.csv",na.strings =c("",NA,NULL)  
                               ,stringsAsFactors = TRUE)
